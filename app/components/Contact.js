@@ -47,7 +47,7 @@ export default function Contact() {
             {/* Left Section */}
             <div className="flex-1 flex flex-col justify-center mx-[5dvh]">
                 <h1 className="text-[rgb(48,104,184)] drop-shadow text-2xl sm:text-3xl font-extrabold">
-                    We'd Love to hear from you.
+                    We&apos;d Love to hear from you.
                 </h1>
                 <p className="text-sm sm:text-base text-gray-500 mt-4">
                     Feel free to reach out with any questions, comments, or requests, and I&apos;ll get back to you as soon as possible!
